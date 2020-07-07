@@ -11,7 +11,7 @@ COVID-19 has grasped the entire world by surprise and lack of vaccine have furth
 
 ## Language Support
 * English 
-* Deutsch (in Testing phase)
+* Deutsch (under development)
 
 # References
 COVID related information gathered from the official CDC FAQ section.
