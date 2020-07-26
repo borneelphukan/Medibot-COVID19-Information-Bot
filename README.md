@@ -1,4 +1,4 @@
-# Medibot: COVID19 Information Bot
+# Medibot: COVID19 Info Bot
 A chatterbot dependent web-basesd interactive COVID19 Information Bot designed using Flask.
 
 ## Introduction
